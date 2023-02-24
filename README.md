@@ -1,4 +1,5 @@
-Hot-Take
+Hot-Take ---:
+
 Ce projet n'est pas accesible pour vous directement il vous faudra donc :
 
 Tout d'abord cloner ce repository Et ensuite récupérer le front end ici:
@@ -7,6 +8,6 @@ Tout d'abord cloner ce repository Et ensuite récupérer le front end ici:
 
 
 
-Puis : `Installer Node.js Installer Nodemon Installer les dépendences pour les dossiers frontend et backend`
+Puis : `Installer Node.js -- Installer Nodemon(optionnel) -- Installer les dépendences pour les dossiers frontend et backend`
 
-Lancer le server frontend avec `ng serve` Lancer le server backend avec `node server`
+Lancer le server frontend avec `ng serve` Lancer le server backend avec `node server` ou `nodemon server`
